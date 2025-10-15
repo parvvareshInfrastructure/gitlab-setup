@@ -85,10 +85,4 @@ sudo gitlab-rake gitlab:backup:create
 > Backups are stored in `/var/opt/gitlab/backups/`.
 
 ---
-
-**Author:** Your Name
-**License:** MIT
-**Tested on:** Ubuntu 22.04 LTS (amd64)
-
-```
 ```
